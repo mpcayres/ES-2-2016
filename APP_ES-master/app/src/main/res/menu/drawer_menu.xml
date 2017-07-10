@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Novos dados">
+        <menu>
+            <item
+                android:id="@+id/nav_inserir"
+                android:checked="false"
+                android:icon="@drawable/inserir"
+                android:title="Inserir" />
+        </menu>
+    </item>
+
+    <item android:title="Tarefas">
+        <menu>
+            <item
+            android:id="@+id/nav_calendario"
+            android:checked="false"
+            android:icon="@drawable/calendario"
+            android:title="Calendário" />
+
+            <item
+                android:id="@+id/nav_hoje"
+                android:checked="false"
+                android:icon="@drawable/hoje"
+                android:title="Dia atual" />
+
+            <item
+                android:id="@+id/nav_tudo"
+                android:checked="false"
+                android:icon="@drawable/tudo"
+                android:title="Prioridades" />
+        </menu>
+    </item>
+
+    <item android:title="Extras">
+        <menu>
+            <item
+                android:id="@+id/nav_estatisticas"
+                android:checked="false"
+                android:icon="@drawable/estatistica"
+                android:title="Estatísticas"  />
+
+            <item
+                android:id="@+id/nav_conf"
+                android:checked="false"
+                android:icon="@drawable/conf"
+                android:title="Configurações" />
+
+            <item
+                android:id="@+id/nav_logout"
+                android:checked="false"
+                android:icon="@drawable/ic_power_settings_new_black_24dp"
+                android:title="Sair" />
+        </menu>
+    </item>
+
+</menu>

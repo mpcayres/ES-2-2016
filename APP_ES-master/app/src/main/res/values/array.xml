@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="week_days">
+        <item>Segunda</item>
+        <item>Terca</item>
+        <item>Quarta</item>
+        <item>Quinta</item>
+        <item>Sexta</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+    </string-array>
+
+
+</resources>

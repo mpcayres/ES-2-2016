@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3b6899</color>
+    <color name="colorPrimaryDark">#293c51</color>
+    <color name="colorAccent">#457d91</color>
+    <color name="colorPrimaryLight">#2984a5</color>
+    <color name="colorAccentLight">#3b84d3</color>
+    <color name="disabled">#bdbdbd</color>
+    <color name="back">#e6e6e6</color>
+    <color name="backText">#626970</color>
+
+    <!-- Outras Cores -->
+    <color name="pink">#FF4081</color>
+    <color name="purple">#a940ff</color>
+    <color name="transparent">#0000</color>
+    <color name="white">#ffffff</color>
+    <color name="almost_white">#e6e6e6</color>
+    <color name="black">#000000</color>
+    <color name="violet">#990000</color>
+    <color name="blue">#00f</color>
+    <color name="red">#ef5350</color>
+    <color name="green">#17b180</color>
+    <color name="gray">#BDBDBD</color>
+    <color name="dark_gray">#616161</color>
+    <color name="light_blue">#64B5F6</color>
+    <color name="material_blue_500">#00a59e</color>
+    <color name="navcolor">#f9eed7</color>
+    <color name="button_standby">#e8e8e8</color>
+    <color name="button_pressed">#c8c8c8</color>
+    <color name="dialog">@color/white</color >
+
+</resources>
